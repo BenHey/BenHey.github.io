@@ -20,8 +20,13 @@ I am a Staff Research Scientist at Criteo with interests in game theory, reinfor
 I am a member of the join Inria/Criteo FairPlay team. 
 
 My work is motivated by applications for recommender systems and marketplace design.
+I try to dedicate time to both applied and theoretical topics. 
 
 I am currently based in Montreal, but I am usually in Paris. 
+
+I hold a degree in  engineering from the Ecole polytechnique (Paris), a Master of Science in Operations Research from Columbia University (New York) and a PhD in applied mathematics from the Ecole polytechnique/Inria. 
+
+I was honoured to receive a Siebel Scholarship in 2016. 
 
 <p><a href="https://scholar.google.com/citations?user=ok5uldEAAAAJ&hl=en&oi=ao">My publications on Google Scholar</a></p>
 
