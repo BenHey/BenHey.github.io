@@ -21,7 +21,7 @@ I am a member of the join Inria/Criteo FairPlay team.
 
 My work is motivated by applications for recommender systems and marketplace design.
 
-I am currently based in Montreal but I am usually in Paris. 
+I am currently based in Montreal, but I am usually in Paris. 
 
 <p><a href="https://scholar.google.com/citations?user=ok5uldEAAAAJ&hl=en&oi=ao">My publications on Google Scholar</a></p>
 
