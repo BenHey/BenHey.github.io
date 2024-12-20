@@ -165,3 +165,32 @@ eprint = {
 ,
     abstract = { Problem definition: Most of the display advertising inventory is sold through real-time auctions. The participants of these auctions are typically bidders (Google, Criteo, RTB House, and Trade Desk for instance) that participate on behalf of advertisers. In order to estimate the value of each display opportunity, they usually train advanced machine learning algorithms using historical data. In the labeled training set, the inputs are vectors of features representing each display opportunity, and the labels are the generated rewards. In practice, the rewards are given by the advertiser and are tied to whether a particular user converts. Consequently, the rewards are aggregated at the user level and never observed at the display level. A fundamental task that has, to the best of our knowledge, been overlooked is to account for this mismatch and split, or attribute, the rewards at the right granularity level before training a learning algorithm. We call this the label attribution problem. Methodology/results: In this paper, we develop an approach to the label attribution problem, which is both theoretically justified and practical. In particular, we develop a fixed point algorithm that allows for large-scale implementation and showcase our solution using a large-scale publicly available data set from Criteo, a large demand-side platform. We dub our approach the fixed point label attribution algorithm. Managerial implications: There is often a hidden leap of faith when transforming the advertiser’s signal into display labeling. Demand Side Platforms providers should be careful when building their machine learning pipeline and carefully solve the label attribution step. }
 }
+
+
+@inproceedings{heymann2024welfare,
+  title={Welfare-Optimized Recommender Systems},
+  author={Heymann, Benjamin and Vasile, Flavian and Rohde, David},
+  booktitle={SURE workshop, RESCYS 2024},
+  year={2024}
+}
+
+@inproceedings{heymann2024repeated,
+  title={Repeated Bidding with Dynamic Value},
+  author={Heymann, Benjamin and Gilotte, Alexandre and Chan-Renous, R{\'e}mi},
+  booktitle={WINE 2024},
+  year={2024}
+}
+
+@article{heymann2024learning,
+  title={Learning in Games with progressive hiding},
+  author={Heymann, Benjamin and Lanctot, Marc},
+  journal={AAMAS 2024},
+  year={2024}
+}
+
+@inproceedings{garrido2024shapley,
+  title={DU-Shapley: A Shapley Value Proxy for Efficient Dataset Valuation},
+  author={Garrido, Felipe and Heymann, Benjamin and Vono, Maxime and Loiseau, Patrick and Perchet, Vianney},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024}
+}
