@@ -16,15 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Staff Research Scientist at Criteo with interests in game theory, reinforcement learning and causal methods. 
+I am a Staff Research Scientist at Criteo with in a focus on   game theory. 
 I am a member of the join Inria/Criteo FairPlay team. 
+I  dedicate time to both applied and theoretical topics. 
 
-My work is motivated by applications for recommender systems and marketplace design.
-I try to dedicate time to both applied and theoretical topics. 
 
-I am currently based in Montreal, but I am usually in Paris. 
 
 I hold a degree in  engineering from the Ecole polytechnique (Paris), a Master of Science in Operations Research from Columbia University (New York) and a PhD in applied mathematics from the Ecole polytechnique/Inria. 
+
+I am currently co-advising <a href="https://crest.science/user/m%C3%A9lissa-tamine/"> Mélissa Tamine</a>.
 
 I was honoured to receive a Siebel Scholarship in 2016. 
 
