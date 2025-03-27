@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Staff Research Scientist at Criteo with in a focus on   game theory. 
+I am a Staff Research Scientist at Criteo with  a focus on   game theory. 
 I am a member of the join Inria/Criteo FairPlay team. 
 I  dedicate time to both applied and theoretical topics. 
 
