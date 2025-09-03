@@ -19,9 +19,9 @@ announcements:
 
 ---
 
-I am a Staff Research Scientist at Criteo with  a focus on   game theory. 
+I am a Staff Research Scientist at Criteo AI Lab,  where I am the lead of the Performance Science team.
 I am a member of the join Inria/Criteo FairPlay team. 
-I  dedicate time to both applied and theoretical topics. 
+I  have a focus on game theory. I dedicate time to both applied and theoretical topics. 
 
 
 
